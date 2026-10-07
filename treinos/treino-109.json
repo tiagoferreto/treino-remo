@@ -1,0 +1,18 @@
+{
+  "nome": "Limiar 3 × 10 · voga 24",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 20 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 22 },
+    {
+      "tipo": "repeticao",
+      "vezes": 2,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 600, "voga": 24 },
+        { "tipo": "descanso", "duracao_s": 180 }
+      ]
+    },
+    { "tipo": "remada", "duracao_s": 600, "voga": 24 },
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 }
+  ]
+}

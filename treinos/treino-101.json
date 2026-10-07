@@ -1,0 +1,6 @@
+{
+  "nome": "30R20 · 30 min, voga 20",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 1800, "voga": 20 }
+  ]
+}

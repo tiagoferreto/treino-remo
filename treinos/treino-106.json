@@ -1,0 +1,22 @@
+{
+  "nome": "Pirâmide 1-2-3-4-3-2-1",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 20 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 22 },
+    { "tipo": "remada", "duracao_s": 60, "voga": 32 },
+    { "tipo": "descanso", "duracao_s": 30 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 30 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 28 },
+    { "tipo": "descanso", "duracao_s": 90 },
+    { "tipo": "remada", "duracao_s": 240, "voga": 26 },
+    { "tipo": "descanso", "duracao_s": 120 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 28 },
+    { "tipo": "descanso", "duracao_s": 90 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 30 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 60, "voga": 32 },
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 }
+  ]
+}

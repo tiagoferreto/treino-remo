@@ -1,0 +1,6 @@
+{
+  "nome": "Fundo 60 min · voga 18",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 3600, "voga": 18 }
+  ]
+}

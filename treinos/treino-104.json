@@ -1,0 +1,18 @@
+{
+  "nome": "8 × 500 m (8 × 2 min)",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 20 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 22 },
+    {
+      "tipo": "repeticao",
+      "vezes": 7,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 120, "voga": 30 },
+        { "tipo": "descanso", "duracao_s": 90 }
+      ]
+    },
+    { "tipo": "remada", "duracao_s": 120, "voga": 30 },
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 }
+  ]
+}

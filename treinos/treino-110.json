@@ -1,0 +1,12 @@
+{
+  "nome": "Escada de voga 20 → 30",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 180, "voga": 20 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 22 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 24 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 26 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 28 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 30 },
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "4 × 4 min · voga 28",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 },
+    { "tipo": "remada", "duracao_s": 180, "voga": 20 },
+    { "tipo": "remada", "duracao_s": 120, "voga": 22 },
+    {
+      "tipo": "repeticao",
+      "vezes": 3,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 240, "voga": 28 },
+        { "tipo": "descanso", "duracao_s": 180 }
+      ]
+    },
+    { "tipo": "remada", "duracao_s": 240, "voga": 28 },
+    { "tipo": "remada", "duracao_s": 300, "voga": 18 }
+  ]
+}
