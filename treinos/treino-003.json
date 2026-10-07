@@ -1,0 +1,8 @@
+{
+  "nome": "T1",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 5, "voga": 20 },
+    { "tipo": "descanso", "duracao_s": 5 },
+    { "tipo": "remada", "duracao_s": 5, "voga": 22 }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nome": "T2",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 10, "voga": 20 },
+    { "tipo": "descanso", "duracao_s": 10 },
+    {
+      "tipo": "repeticao",
+      "vezes": 2,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 5, "voga": 22 },
+        { "tipo": "descanso", "duracao_s": 5 }
+      ]
+    },
+    {
+      "tipo": "repeticao",
+      "vezes": 3,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 5, "voga": 24 },
+        { "tipo": "descanso", "duracao_s": 5 }
+      ]
+    }
+  ]
+}
