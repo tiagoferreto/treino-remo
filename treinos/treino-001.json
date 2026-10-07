@@ -1,0 +1,57 @@
+{
+  "nome": "Progressão de voga 16 → 36",
+  "etapas": [
+    { "tipo": "remada", "duracao_s": 240, "voga": 16 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 240, "voga": 18 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 240, "voga": 20 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    {
+      "tipo": "repeticao",
+      "vezes": 2,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 120, "voga": 22 },
+        { "tipo": "descanso", "duracao_s": 30 }
+      ]
+    },
+    {
+      "tipo": "repeticao",
+      "vezes": 2,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 120, "voga": 24 },
+        { "tipo": "descanso", "duracao_s": 30 }
+      ]
+    },
+    {
+      "tipo": "repeticao",
+      "vezes": 2,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 120, "voga": 26 },
+        { "tipo": "descanso", "duracao_s": 30 }
+      ]
+    },
+    {
+      "tipo": "repeticao",
+      "vezes": 3,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 90, "voga": 28 },
+        { "tipo": "descanso", "duracao_s": 30 }
+      ]
+    },
+    {
+      "tipo": "repeticao",
+      "vezes": 3,
+      "etapas": [
+        { "tipo": "remada", "duracao_s": 90, "voga": 30 },
+        { "tipo": "descanso", "duracao_s": 30 }
+      ]
+    },
+    { "tipo": "remada", "duracao_s": 60, "voga": 32 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 60, "voga": 34 },
+    { "tipo": "descanso", "duracao_s": 60 },
+    { "tipo": "remada", "duracao_s": 60, "voga": 36 },
+    { "tipo": "descanso", "duracao_s": 60 }
+  ]
+}
